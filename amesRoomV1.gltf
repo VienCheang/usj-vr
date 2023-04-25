@@ -1,0 +1,114 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.32",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Plane",
+            "scale" : [
+                5.005581378936768,
+                5.005581378936768,
+                5.005581378936768
+            ],
+            "translation" : [
+                -0.04054608941078186,
+                0,
+                1.5278061628341675
+            ]
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Plane",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 20,
+            "max" : [
+                1.5416550636291504,
+                2.931518793106079,
+                2.7509891986846924
+            ],
+            "min" : [
+                -1.5706051588058472,
+                -0.062337726354599,
+                -2.3444554805755615
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 20,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 20,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 30,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 240,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 240,
+            "byteOffset" : 240,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 160,
+            "byteOffset" : 480,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 60,
+            "byteOffset" : 640,
+            "target" : 34963
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 700,
+            "uri" : "data:application/octet-stream;base64,Oq8hv9hVf701EDBAOq8hv9hVf701EDBAOq8hv9hVf701EDBA9FTFPwAPLD9H4Qi+9FTFPwAPLD9H4Qi+9FTFPwAPLD9H4Qi+lwnJvyDRLj8TELa/lwnJvyDRLj8TELa/1X0gP1w3Jz+PCxbA1X0gP1w3Jz+PCxbAlwnJvyGEC0ATELa/lwnJvyGEC0ATELa/1X0gP7CdCUCPCxbA1X0gP7CdCUCPCxbAOq8hvwGeO0A1EDBAOq8hvwGeO0A1EDBAOq8hvwGeO0A1EDBA9FTFP/bBCkBH4Qi+9FTFP/bBCkBH4Qi+9FTFP/bBCkBH4Qi+2ndMvwAAAACbChq/gU9Jva2dfT+LBgI+fsF5PwAAAAD/yGC+EY1svwAAAAA8wMM+2ndMvwAAAACbChq/gU9Jva2dfT+LBgI+gU9Jva2dfT+LBgI+fsF5PwAAAAD/yGC+EY1svwAAAAA8wMM+gU9Jva2dfT+LBgI+AUN3vSogfb/5+Qs+fsF5PwAAAAD/yGC+EY1svwAAAAA8wMM+AUN3vSogfb/5+Qs+2ndMvwAAAACbChq/AUN3vSogfb/5+Qs+fsF5PwAAAAD/yGC+EY1svwAAAAA8wMM+2ndMvwAAAACbChq/AUN3vSogfb/5+Qs+AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AAAAAAAAAAAAAAAAAAAAAAAAgD8AAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwEABQAJAAEACQAGAA0AEwAPAA0ADwAKAAIABwALAAIACwAQAAQAAAAOAAQADgASAAMAEQAMAAMADAAIAA=="
+        }
+    ]
+}
